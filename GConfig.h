@@ -1,7 +1,7 @@
 const int TFTRotation = 0;              //设置屏幕方向
 const int TZone = 8;                    //时区，北京时间为UTC+8
 const String UID = "24684337";          //哔哩哔哩UID
-const String Key = "SVS98jAHdmNbChOJ8"; //心知天气私钥
+const String Key = "XXXXXXXXXXXXXXXXXX"; //心知天气私钥
 const String City = "营口";              //城市拼音，汉字好像也彳亍
 const char* ssid     = "Test";
 const char* password = "12345677";
